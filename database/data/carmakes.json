@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Toyota", "description": "Japanese automobile manufacturer known for reliability" },
+  { "id": 2, "name": "Ford", "description": "American automobile manufacturer" },
+  { "id": 3, "name": "Honda", "description": "Japanese multinational automobile manufacturer" },
+  { "id": 4, "name": "Chevrolet", "description": "American automobile division of General Motors" }
+]

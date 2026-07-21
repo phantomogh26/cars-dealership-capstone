@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "John Smith", "dealership": 5, "review": "Fantastic services and very friendly staff", "purchase": true, "purchase_date": "01/15/2026", "car_make": "Toyota", "car_model": "Camry", "car_year": 2023 },
+  { "id": 2, "name": "Mary Johnson", "dealership": 5, "review": "Good experience overall, would recommend", "purchase": true, "purchase_date": "02/10/2026", "car_make": "Honda", "car_model": "Civic", "car_year": 2022 },
+  { "id": 3, "name": "David Lee", "dealership": 1, "review": "The service was okay, nothing special", "purchase": false, "purchase_date": "", "car_make": "Ford", "car_model": "Focus", "car_year": 2021 },
+  { "id": 4, "name": "Sarah Brown", "dealership": 2, "review": "Terrible experience, staff was rude and unhelpful", "purchase": false, "purchase_date": "", "car_make": "Toyota", "car_model": "Corolla", "car_year": 2020 },
+  { "id": 5, "name": "Michael Davis", "dealership": 6, "review": "Amazing dealership, best car buying experience ever", "purchase": true, "purchase_date": "03/05/2026", "car_make": "Honda", "car_model": "Accord", "car_year": 2023 }
+]
